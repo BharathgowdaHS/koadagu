@@ -265,5 +265,37 @@ body{
     word-spacing: 5px;
     line-height: 35px;
 }
+.me{
+    width: 400px;
+    height: 30px;
+    display:inline-block;
+    text-align: left;
+}
+
+.you{
+    width: 400px;
+    height: 30px;
+    display:inline-block;
+    text-align: right;
+}
+button:hover{
+    color:blue;
+}
+button-container{
+    display: inline-block;
+}
+button{
+    margin-top: 5%;
+    display: inline-block;
+    background-color:transparent;
+    color:rgb(238, 233, 233);
+    border:0cqmax;
+    cursor: pointer;
+    padding:10px 20px;
+    border-radius: 20px;
+    font-size: 50px;
+    font-family:myfont;
+    margin-left: 30%;
+}
 
 
